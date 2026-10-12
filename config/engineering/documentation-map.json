@@ -1579,6 +1579,10 @@
       "class": "ACTIVE_RESEARCH_DOC"
     },
     {
+      "path": "docs/research/swl1-rev10-statistical-design-proposal.zh-CN.md",
+      "class": "ACTIVE_RESEARCH_DOC"
+    },
+    {
       "path": "docs/engineering/swl1-rev10-acceptance.md",
       "class": "ACTIVE_DEVELOPER_DOC"
     },
